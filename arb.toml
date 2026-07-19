@@ -1,0 +1,5 @@
+[package]
+name = "speedtest"
+version = "0.1.0"
+license = "MIT"
+description = "Ping/download/upload throughput from speedtest-cli"

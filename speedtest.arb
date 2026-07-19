@@ -1,0 +1,5 @@
+# speedtest — Ping/download/upload throughput from speedtest-cli, self-sourced from `speedtest-cli --simple`.
+! speedtest-cli --simple every 10s
+list .speedtest
+source .speedtest { in }
+grid .speedtest -row 0 -col 0
